@@ -1,0 +1,38 @@
+.links{
+    padding: 36px 0;  
+    text-align: left;  
+}
+
+.links a {
+    font-size: 16px;
+    line-height: 26px;
+    text-decoration: none;
+    color: black;
+    margin: 0 20px;
+}
+
+.links a:hover {
+    color: #d87c72;
+    font-weight: bold;
+    transition: font-weight 100ms, color 300ms;
+
+}
+
+.links a.logo {
+    margin: 0 144px 0 0;
+}
+
+.links a.logina {
+    font-size: 16px;
+    line-height: 26px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin: 0 170px;
+}
+
+.links a.logina:hover {
+    color: #d87c72;
+    font-weight: bold;
+    transition: font-weight 100ms, color 300ms;
+
+}
